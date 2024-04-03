@@ -1,2 +1,2 @@
 # Maq_Anestesia
-TP FINAL DE INTRUMENTACIÓN BIOMÉDICA II
+Biomedical instrumentation II final's project involved simulating and programming the physiological response of a patient to anesthesia. Initial patient parameters could be input, such as age, lung capacity, baseline heart rate, among others, as well as the proportion of gas anesthesia with oxygen and medical air. The program will be responsible for representing the ECG and curves of ventilation controlled by volume or pressure. Physiological parameters will behave like a patient under the conditions presented to them. It was programmed in c#.
